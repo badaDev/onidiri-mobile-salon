@@ -1,0 +1,85 @@
+.my-menu{
+    color: #fff !important;
+  }
+  .my-menu:hover{
+    color: #e83e8c !important;
+  }
+  .my-menu:active{
+    color: #f8f9fa !important;
+  }
+
+  .my-active{
+      background-color: #679cd4 !important;
+  }
+
+  .my-services-hover:hover{
+    background-color: #679cd4 !important;
+    color: antiquewhite !important;
+  }
+
+  .my-service-wrap {
+      border-color: #679cd4 !important;
+      /* height: 6rem !important; */
+  }
+
+  .my-one-third{
+    border-color: #679cd4 !important;
+  }
+
+  .my-works{
+      padding-top: 50px !important;
+  }
+
+  .my-reservation{
+      margin-bottom: 30px !important;
+  }
+  .my-services-button{
+      background-color: #679cd4 !important;
+  }
+
+  .services-img{
+    width: 30% !important;
+    height: auto !important;
+    margin: auto !important;
+  }
+
+  .work{
+    height: 50% !important;
+  }
+
+  .my-testimonials{
+    padding-top: 50px !important;
+  }
+  .my_menu:hover{
+    color: hotpink !important;
+  }
+
+
+
+  
+/* for mobile screens */
+@media only screen and (max-width: 750px) {
+    .my-main-heading{
+        font-size: 1.5rem !important;
+    }
+
+    .work{
+      height: 100% !important;
+    }
+
+    .my-testimonials{
+      padding-top: 50px !important;
+      margin-top: -60px !important;
+    }
+
+    .my-service-wrap {
+      border-color: #679cd4 !important;
+      height: 40rem !important;
+  }
+}
+
+
+
+
+
+
